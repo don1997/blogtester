@@ -1,5 +1,5 @@
 baseURL = "https://agitated-mccarthy-d537c7.netlify.app/"
 languageCode = "en-us"
 title = "My New Hugo Site"
-theme = "manis-hugo-theme-master"
+theme = "hugo-dusk-master"
 
