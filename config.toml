@@ -1,5 +1,17 @@
 baseURL = "https://agitated-mccarthy-d537c7.netlify.app/"
 languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "lekh-master"
+title = "Site title"
+theme = "solar-theme-hugo-master"
+pygmentsStyle = "solarized-dark" # solarized-light, -dark or -dark256
+
+[params]
+  scheme = "light" # light, dark, gray or preference
+  description = "I met a traveller from an antique land....."
+
+[menu]
+  
+  [[menu.main]]
+    name = "Repository"
+    url = "https://github.com/don1997"
+  
 
