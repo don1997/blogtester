@@ -1,6 +1,6 @@
 baseURL = "https://agitated-mccarthy-d537c7.netlify.app/"
 languageCode = "en-us"
-title = "Site title"
+title = "λ"
 theme = "charaka-hugo-theme-master"
 
 [params]
