@@ -1,0 +1,22 @@
+baseurl: "https://example.com"
+languageCode: "en-us"
+title: "Site Title"
+theme: "hugo-tania-main"
+paginate: 6
+
+params:
+  titleEmoji: 'λ'
+  socialOptions:
+    github: https://github.com/don1997
+    email: email@example.com
+  enableFootnotes: true
+
+
+
+markup:
+  highlight:
+    noClasses: false
+    lineNos: true
+  goldmark:
+    renderer:
+      unsafe: true

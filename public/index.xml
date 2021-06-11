@@ -1,114 +1,73 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Site title</title>
-    <link>https://agitated-mccarthy-d537c7.netlify.app/</link>
-    <description>Recent content on Site title</description>
+    <title>Site Title</title>
+    <link>https://example.com/</link>
+    <description>Recent content on Site Title</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Jun 2021 10:16:22 +0000</lastBuildDate><atom:link href="https://agitated-mccarthy-d537c7.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Jun 2021 10:02:30 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>quadratic 4</title>
-      <link>https://agitated-mccarthy-d537c7.netlify.app/posts/quadratic-4/</link>
-      <pubDate>Fri, 11 Jun 2021 10:16:22 +0000</pubDate>
-      
-      <guid>https://agitated-mccarthy-d537c7.netlify.app/posts/quadratic-4/</guid>
-      <description>quadratic equation
-$\frac{-b\pm\sqrt{b^2-4ac}}{2a}=x$</description>
+    <title>lorem mathjax</title>
+    <link>https://example.com/posts/lorem-mathjax/</link>
+    <pubDate>Fri, 11 Jun 2021 10:02:30 +0000</pubDate>
+    
+    <guid>https://example.com/posts/lorem-mathjax/</guid>
+    <description>
+        &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+&lt;p&gt;$\frac{-b\pm\sqrt{b^2-4ac}}{2a}=x$&lt;/p&gt;
+
+    </description>
     </item>
     
     <item>
-      <title>quadratic 3</title>
-      <link>https://agitated-mccarthy-d537c7.netlify.app/posts/quadratic-3/</link>
-      <pubDate>Fri, 11 Jun 2021 10:12:18 +0000</pubDate>
-      
-      <guid>https://agitated-mccarthy-d537c7.netlify.app/posts/quadratic-3/</guid>
-      <description>quadratic equation $~~~~~~~~~~~~~~~~~~~~~~~~~~$
-$\frac{-b\pm\sqrt{b^2-4ac}}{2a}=x$</description>
+    <title>lorem</title>
+    <link>https://example.com/posts/lorem/</link>
+    <pubDate>Fri, 11 Jun 2021 09:53:50 +0000</pubDate>
+    
+    <guid>https://example.com/posts/lorem/</guid>
+    <description>
+        &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+
+    </description>
     </item>
     
     <item>
-      <title>quadratic test 2</title>
-      <link>https://agitated-mccarthy-d537c7.netlify.app/posts/quadratic-test-2/</link>
-      <pubDate>Fri, 11 Jun 2021 10:09:26 +0000</pubDate>
-      
-      <guid>https://agitated-mccarthy-d537c7.netlify.app/posts/quadratic-test-2/</guid>
-      <description>quadratic equation $~~~~~~~~~~$
-$\frac{-b\pm\sqrt{b^2-4ac}}{2a}=x$</description>
+    <title>Another Test</title>
+    <link>https://example.com/posts/another-test/</link>
+    <pubDate>Thu, 10 Jun 2021 20:49:34 +0000</pubDate>
+    
+    <guid>https://example.com/posts/another-test/</guid>
+    <description>
+        &lt;p&gt;&lt;img src=&#34;https://example.com/images/uploads/4sna6vl.jpg&#34; alt=&#34;test&#34; title=&#34;test&#34;&gt;&lt;/p&gt;
+&lt;p&gt;N/A&lt;/p&gt;
+
+    </description>
     </item>
     
     <item>
-      <title>quadratic</title>
-      <link>https://agitated-mccarthy-d537c7.netlify.app/posts/quadratic/</link>
-      <pubDate>Fri, 11 Jun 2021 10:06:50 +0000</pubDate>
-      
-      <guid>https://agitated-mccarthy-d537c7.netlify.app/posts/quadratic/</guid>
-      <description>quadratic eqation $~~~$
-$\frac{-b\pm\sqrt{b^2-4ac}}{2a}=x$</description>
+    <title>Using the CMS</title>
+    <link>https://example.com/posts/using-the-cms/</link>
+    <pubDate>Thu, 10 Jun 2021 17:32:48 +0000</pubDate>
+    
+    <guid>https://example.com/posts/using-the-cms/</guid>
+    <description>
+        &lt;h2 id=&#34;quadratic-equation&#34;&gt;Quadratic Equation&lt;/h2&gt;
+&lt;p&gt;$\frac{-b\pm\sqrt{b^2-4ac}}{2a}=x$&lt;/p&gt;
+
+    </description>
     </item>
     
     <item>
-      <title>lorem mathjax</title>
-      <link>https://agitated-mccarthy-d537c7.netlify.app/posts/lorem-mathjax/</link>
-      <pubDate>Fri, 11 Jun 2021 10:02:30 +0000</pubDate>
-      
-      <guid>https://agitated-mccarthy-d537c7.netlify.app/posts/lorem-mathjax/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-$\frac{-b\pm\sqrt{b^2-4ac}}{2a}=x$</description>
-    </item>
+    <title>Mypost</title>
+    <link>https://example.com/posts/mypost/</link>
+    <pubDate>Thu, 10 Jun 2021 10:55:15 -0400</pubDate>
     
-    <item>
-      <title>quadratic equation</title>
-      <link>https://agitated-mccarthy-d537c7.netlify.app/posts/quadratic-equation/</link>
-      <pubDate>Fri, 11 Jun 2021 10:00:11 +0000</pubDate>
-      
-      <guid>https://agitated-mccarthy-d537c7.netlify.app/posts/quadratic-equation/</guid>
-      <description>quadratic equation \(\frac{-b\pm\sqrt{b^2-4ac}}{2a}=x\)</description>
-    </item>
-    
-    <item>
-      <title>cms test</title>
-      <link>https://agitated-mccarthy-d537c7.netlify.app/posts/cms-test/</link>
-      <pubDate>Fri, 11 Jun 2021 09:58:33 +0000</pubDate>
-      
-      <guid>https://agitated-mccarthy-d537c7.netlify.app/posts/cms-test/</guid>
-      <description>Quadratic Equation $\frac{-b\pm\sqrt{b^2-4ac}}{2a}=x$</description>
-    </item>
-    
-    <item>
-      <title>lorem</title>
-      <link>https://agitated-mccarthy-d537c7.netlify.app/posts/lorem/</link>
-      <pubDate>Fri, 11 Jun 2021 09:53:50 +0000</pubDate>
-      
-      <guid>https://agitated-mccarthy-d537c7.netlify.app/posts/lorem/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
-    </item>
-    
-    <item>
-      <title>Another Test</title>
-      <link>https://agitated-mccarthy-d537c7.netlify.app/posts/another-test/</link>
-      <pubDate>Thu, 10 Jun 2021 20:49:34 +0000</pubDate>
-      
-      <guid>https://agitated-mccarthy-d537c7.netlify.app/posts/another-test/</guid>
-      <description>N/A</description>
-    </item>
-    
-    <item>
-      <title>Using the CMS</title>
-      <link>https://agitated-mccarthy-d537c7.netlify.app/posts/using-the-cms/</link>
-      <pubDate>Thu, 10 Jun 2021 17:32:48 +0000</pubDate>
-      
-      <guid>https://agitated-mccarthy-d537c7.netlify.app/posts/using-the-cms/</guid>
-      <description>Quadratic Equation $\frac{-b\pm\sqrt{b^2-4ac}}{2a}=x$</description>
-    </item>
-    
-    <item>
-      <title>Mypost</title>
-      <link>https://agitated-mccarthy-d537c7.netlify.app/posts/mypost/</link>
-      <pubDate>Thu, 10 Jun 2021 10:55:15 -0400</pubDate>
-      
-      <guid>https://agitated-mccarthy-d537c7.netlify.app/posts/mypost/</guid>
-      <description>hello Test $x^2+b^2/2$</description>
+    <guid>https://example.com/posts/mypost/</guid>
+    <description>
+        &lt;p&gt;hello Test
+$x^2+b^2/2$&lt;/p&gt;
+
+    </description>
     </item>
     
   </channel>
