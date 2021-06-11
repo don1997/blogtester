@@ -1,17 +1,18 @@
 baseURL = "https://agitated-mccarthy-d537c7.netlify.app/"
 languageCode = "en-us"
 title = "Site title"
-theme = "solar-theme-hugo-master"
-pygmentsStyle = "solarized-dark" # solarized-light, -dark or -dark256
+theme = "charaka-hugo-theme-master"
 
 [params]
-  scheme = "light" # light, dark, gray or preference
-  description = "I met a traveller from an antique land....."
 
-[menu]
-  
-  [[menu.main]]
-    name = "Repository"
-    url = "https://github.com/don1997"
-  
+[params.highlight]
+  style = "zenburn"
+
+
+
+[[params.social]]
+  url = "https://github.com/natarajmb"
+  fa_icon = "fab fa-github"
+
+
 

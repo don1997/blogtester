@@ -6,7 +6,84 @@
     <description>Recent content on Site title</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Jun 2021 20:49:34 +0000</lastBuildDate><atom:link href="https://agitated-mccarthy-d537c7.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Jun 2021 10:16:22 +0000</lastBuildDate><atom:link href="https://agitated-mccarthy-d537c7.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>quadratic 4</title>
+      <link>https://agitated-mccarthy-d537c7.netlify.app/posts/quadratic-4/</link>
+      <pubDate>Fri, 11 Jun 2021 10:16:22 +0000</pubDate>
+      
+      <guid>https://agitated-mccarthy-d537c7.netlify.app/posts/quadratic-4/</guid>
+      <description>quadratic equation
+$\frac{-b\pm\sqrt{b^2-4ac}}{2a}=x$</description>
+    </item>
+    
+    <item>
+      <title>quadratic 3</title>
+      <link>https://agitated-mccarthy-d537c7.netlify.app/posts/quadratic-3/</link>
+      <pubDate>Fri, 11 Jun 2021 10:12:18 +0000</pubDate>
+      
+      <guid>https://agitated-mccarthy-d537c7.netlify.app/posts/quadratic-3/</guid>
+      <description>quadratic equation $~~~~~~~~~~~~~~~~~~~~~~~~~~$
+$\frac{-b\pm\sqrt{b^2-4ac}}{2a}=x$</description>
+    </item>
+    
+    <item>
+      <title>quadratic test 2</title>
+      <link>https://agitated-mccarthy-d537c7.netlify.app/posts/quadratic-test-2/</link>
+      <pubDate>Fri, 11 Jun 2021 10:09:26 +0000</pubDate>
+      
+      <guid>https://agitated-mccarthy-d537c7.netlify.app/posts/quadratic-test-2/</guid>
+      <description>quadratic equation $~~~~~~~~~~$
+$\frac{-b\pm\sqrt{b^2-4ac}}{2a}=x$</description>
+    </item>
+    
+    <item>
+      <title>quadratic</title>
+      <link>https://agitated-mccarthy-d537c7.netlify.app/posts/quadratic/</link>
+      <pubDate>Fri, 11 Jun 2021 10:06:50 +0000</pubDate>
+      
+      <guid>https://agitated-mccarthy-d537c7.netlify.app/posts/quadratic/</guid>
+      <description>quadratic eqation $~~~$
+$\frac{-b\pm\sqrt{b^2-4ac}}{2a}=x$</description>
+    </item>
+    
+    <item>
+      <title>lorem mathjax</title>
+      <link>https://agitated-mccarthy-d537c7.netlify.app/posts/lorem-mathjax/</link>
+      <pubDate>Fri, 11 Jun 2021 10:02:30 +0000</pubDate>
+      
+      <guid>https://agitated-mccarthy-d537c7.netlify.app/posts/lorem-mathjax/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+$\frac{-b\pm\sqrt{b^2-4ac}}{2a}=x$</description>
+    </item>
+    
+    <item>
+      <title>quadratic equation</title>
+      <link>https://agitated-mccarthy-d537c7.netlify.app/posts/quadratic-equation/</link>
+      <pubDate>Fri, 11 Jun 2021 10:00:11 +0000</pubDate>
+      
+      <guid>https://agitated-mccarthy-d537c7.netlify.app/posts/quadratic-equation/</guid>
+      <description>quadratic equation \(\frac{-b\pm\sqrt{b^2-4ac}}{2a}=x\)</description>
+    </item>
+    
+    <item>
+      <title>cms test</title>
+      <link>https://agitated-mccarthy-d537c7.netlify.app/posts/cms-test/</link>
+      <pubDate>Fri, 11 Jun 2021 09:58:33 +0000</pubDate>
+      
+      <guid>https://agitated-mccarthy-d537c7.netlify.app/posts/cms-test/</guid>
+      <description>Quadratic Equation $\frac{-b\pm\sqrt{b^2-4ac}}{2a}=x$</description>
+    </item>
+    
+    <item>
+      <title>lorem</title>
+      <link>https://agitated-mccarthy-d537c7.netlify.app/posts/lorem/</link>
+      <pubDate>Fri, 11 Jun 2021 09:53:50 +0000</pubDate>
+      
+      <guid>https://agitated-mccarthy-d537c7.netlify.app/posts/lorem/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
     <item>
       <title>Another Test</title>
       <link>https://agitated-mccarthy-d537c7.netlify.app/posts/another-test/</link>
